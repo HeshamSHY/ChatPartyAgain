@@ -1,0 +1,6 @@
+name: ChatPartyAgain
+version: '${project.version}'
+main: me.heshamshy.chatpartyagain.ChatPartyAgain
+prefix: ChatPartyAgain
+authors: [Hesham_SHY]
+description: A port of the plugin ChatPary to 1.12.2
