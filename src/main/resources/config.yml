@@ -1,0 +1,19 @@
+# ChatPartyAgain Configuration File
+
+# messageColor: Color of the plugin messages
+messageColor: '&b'
+
+# chatFormat: Format of the party chat messages. Placeholders: {PARTYNAME}, {DISPLAYNAME}, {MESSAGE}
+chatFormat: '&a[P] &f{DISPLAYNAME}&f: {MESSAGE}'
+
+# invertP: Send a message to the public with /p <message> when party chat is toggled
+invertP: false
+
+# toggleWithP: Toggle the party chat when /p without arguments is entered (not newbie-friendly)
+toggleWithP: false
+
+
+# Data; DON'T MANUALLY EDIT THIS
+players: {}
+parties: {}
+spy: []
